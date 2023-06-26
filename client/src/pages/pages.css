@@ -1,0 +1,27 @@
+.formCss {
+  height: 100vh;
+  padding: 0px 100px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.booksMain {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.books {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+img {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+  background-color: rgb(156, 197, 197);
+}
+.mainAdd {
+  text-align: center;
+  align-items: center;
+}
